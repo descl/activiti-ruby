@@ -9,4 +9,5 @@ Gem::Specification.new do |s|
   s.has_rdoc = true
   s.authors = ['Christophe Desclaux']
   s.files = ["README", "activiti-ruby.gemspec", "lib", "examples", "lib/activiti-ruby.rb", "lib/activiti/activiti_api.rb"]  
+  s.add_dependency("rest-client", "~> 1.6.7")
 end
