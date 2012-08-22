@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = "activiti-ruby"
-  s.version = "0.0.1"
+  s.version = "0.0.2"
   s.date = "2012-08-08"
   s.summary = "Activiti Ruby library"
   s.email = "descl@zouig.org"

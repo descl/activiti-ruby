@@ -6,5 +6,5 @@ See examples in the examples/ directory
 
   require 'rubygems'
   require 'activiti-ruby'
-  instance = ActivitiRuby::Activiti.new 'http://kermit:kermit@localhost:8080/'
+  instance = ActivitiRuby::Activiti.new 'http://kermit:kermit@localhost:8080'
   instance.listProcess
